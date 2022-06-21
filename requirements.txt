@@ -25,7 +25,7 @@ lemoncheesecake==0.22.8
 matplotlib==2.2.4
 more-itertools==5.0.0
 multiprocess==0.70.7
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 pathos==0.2.3
 pluggy==0.7.1
